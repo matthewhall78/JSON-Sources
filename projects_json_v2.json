@@ -1,0 +1,24 @@
+{
+    "items": [
+        {
+            "id": "f3bd3f5f-b353-4c11-ad2c-a7fb92b2e73b",
+            "customId": "6858",
+            "name": "Myra Falls Mine"
+        },
+        {
+            "id": "aace4693-5f7f-483f-9f3e-d1e61cabf166",
+            "customId": "BC-Air",
+            "name": "BC Air Quality Monitoring"
+        },
+        {
+            "id": "6564231a-88e8-4f56-bd8e-c9eac0f4518f",
+            "customId": "BCLMN",
+            "name": "BC Lake Monitoring Network"
+        },
+        {
+            "id": "8cb99c20-f297-49f6-960f-062748b7cdc5",
+            "customId": "Canada-BC",
+            "name": "Canada BC Water Quality Monitoring Agreement"
+        }
+    ]
+}
